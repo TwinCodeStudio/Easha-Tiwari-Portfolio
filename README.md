@@ -1,4 +1,4 @@
-# Magazine Portfolio — Vishakha Yesaji
+# Magazine Portfolio — Easha Tiwari
 
 A typography-forward, magazine-style portfolio that presents projects as editorial spreads. Built with vanilla HTML/CSS/JS.
 
@@ -16,3 +16,4 @@ A typography-forward, magazine-style portfolio that presents projects as editori
 ## Notes
 - No build step required; it's pure HTML/CSS/JS.
 - For best results, keep images large (≥1600px on the long side).
+
